@@ -44,4 +44,3 @@ Ce script Tampermonkey est conçu pour bloquer les popups indésirables sur le s
 
 ## Support
 
-Pour toute question ou problème, n'hésitez pas à signaler un problème ou à contacter l'auteur du script.
